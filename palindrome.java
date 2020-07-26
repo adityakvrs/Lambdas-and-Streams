@@ -8,7 +8,11 @@ import java.util.ArrayList;
  *
  */
 public class Check_Palindrome_String {
- 
+ /**
+ * @param stringlist
+ * @return palindromelist
+ *
+ */
     
     public static List isPalindrome(ArrayList<String> stringslist) {
         ArrayList<String> palindromelist=new ArrayList<String>();
